@@ -1,2 +1,1 @@
-# simple_shell
-Simple shell project worked by Grace David and Emmanuel Temiede
+Team pproject 0x16. C - Simple Shell bi ali abdela and sami birhanu
