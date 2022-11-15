@@ -24,7 +24,7 @@ void _eputs(char *str)
  * @c: The character to print
  *
  * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
+ * On error, -1 is returned, and errno is set appropriately
  */
 int _eputchar(char c)
 {
